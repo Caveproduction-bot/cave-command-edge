@@ -44,7 +44,7 @@ One 2560×720 touch dashboard for the XENEON EDGE:
 The audio panel needs a small Windows companion application. Everything else works
 without it.
 
-1. Download the latest `CaveCommandEdgeBridge-Setup.exe` from
+1. Download the latest `CaveCommandEdgeBridge-Setup.exe` (about 39 MB) from
    [Releases](../../releases).
 2. Run it. Windows SmartScreen may warn that the publisher is unrecognised — the
    installer is not code-signed yet. Choose **More info → Run anyway** if you are
